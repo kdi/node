@@ -1,5 +1,8 @@
 # KDI: API for Node.js
 
+Convenience module for operations on the [KDI Network](http://kdi.co)
+
+
 ## Install 
 
 ```
